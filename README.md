@@ -16,3 +16,5 @@ npm install
 ```
 npm run serve
 ```
+###Note 
+The prototype system will use port 8080 by default, please make sure that this port is not occupied during the trial.
