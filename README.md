@@ -1,2 +1,24 @@
-# ReinterpretedTexture
-A web prototype system about a vector point symbol rendering method based on the texture structure. 
+# geoscratch_on_vue
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
